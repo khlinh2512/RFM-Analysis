@@ -34,4 +34,4 @@ The Cannot Lose Them and At risk groups used to buy regularly but have not done 
 * Therefore, special attention should be paid to customer segments that generate high and frequent revenue.
 
 ## 2. Predictive Analysis
---Continue--
+I finished the prediction code in my other project: Predicting_Customer_Segment
